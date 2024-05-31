@@ -17,4 +17,6 @@ body {
 
 .w-75:hover {
     cursor: pointer;
+    background-color: yellow;
+    color: black;
 }
