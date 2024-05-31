@@ -10,7 +10,7 @@ My personal social links profile built with HTML, CSS & Bootstrap 😊.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://maryorwah04.github.io/myProfile/)
 
 ## My process
 
